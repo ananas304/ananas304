@@ -13,9 +13,14 @@ I'm really into machine learning and working towards becoming a data scientist. 
 - 🌱 I'm currently strengthening my basics in DSA and exploring deep learning.
 
 <div style="display: flex; align-items: center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananas304&show_icons=true&locale=en&layout=compact" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ananas304&show_icons=true&count_private=true&hide_border=true" />
+  <a href="https://github.com/ananas304">
+    <img src="https://github-readme-stats.vercel.app/api/?username=ananas304&count_private=true&theme=tokyonight&show_icons=true" alt="My GitHub Stats" style="margin-right: 10px;">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ananas304&theme=tokyonight" alt="GitHub Streak">
+  </a>
 </div>
+
 
 ### Connect with me:
 <p align="left">
