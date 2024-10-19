@@ -25,6 +25,10 @@ I'm really into machine learning and working towards becoming a data scientist. 
 ### Connect with me:
 <p align="left">
  <a href="https://www.linkedin.com/in/ananya-p-pradeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+
+<a href="mailto:ananyapradeep004@gmail.com" target="blank">
+   <img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" width="40" />
+ </a>
 </p>
 
 ### Languages and Tools:
