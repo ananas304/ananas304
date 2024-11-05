@@ -5,7 +5,7 @@
 ### <div align="center">I'm Ananya, an information Science Student 👨‍💻 </div>  
 <br/>
 
-I'm really into machine learning and working towards becoming a data scientist. I love learning new things every day, and I’m always ready for a good challenge! When I'm not coding, you’ll find me painting, playing the piano, or getting lost in a good dystopian novel.<br/>Feel free to connect with me—let's chat or collaborate on something exciting!
+I'm really into software development and machine learning, with experience in backend systems, APIs, and data-driven models using Python, Java, and TensorFlow. I love learning new things every day, and I’m always ready for a good challenge! When I'm not coding, you’ll find me painting, playing the piano, or getting lost in a good dystopian novel.<br/>Feel free to connect with me—let's chat or collaborate on something exciting!
 
 - 🔭 I’m currently working on [AgroTech-AI](https://github.com/manikumarreddyu/)  
   
