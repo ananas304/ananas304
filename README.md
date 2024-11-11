@@ -23,7 +23,8 @@ I'm really into software development and machine learning, with experience in ba
 
 ### GSSOC'24 Badges:
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/new-badge/Git%20Explorer.png" width="115px" height="120px" />
+  <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/3.png" width="100px" height="100px" />
