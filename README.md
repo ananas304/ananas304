@@ -2,7 +2,7 @@
   <img src="https://github.com/rishavanand/github-profilinator/blob/master/src/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="center">I'm Ananya, an information Science Student 👨‍💻 </div>  
+### <div align="center">I'm Ananya, 4th year BE Stduent 👨‍💻 </div>  
 <br/>
 
 I'm really into software development and machine learning, with experience in backend systems, APIs, and data-driven models using Python, Java, and TensorFlow. I love learning new things every day, and I’m always ready for a good challenge! When I'm not coding, you’ll find me painting, playing the piano, or getting lost in a good dystopian novel.<br/>Feel free to connect with me—let's chat or collaborate on something exciting!
