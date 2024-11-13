@@ -10,7 +10,7 @@ I'm really into software development and machine learning, with experience in ba
 - 🔭 I’m currently working on [AgroTech-AI](https://github.com/manikumarreddyu/)  
   
 
-- 🌱 I'm currently strengthening my basics in DSA and exploring deep learning.
+- 🌱 I'm currently strengthening my basics in DSA.
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/ananas304">
